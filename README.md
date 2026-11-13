@@ -122,7 +122,7 @@ These recommendations are based on the 2013–2016 dataset and are intended for 
 1. Install MySQL Server and MySQL Workbench.
 2. Obtain the original IPL dataset from a source you are permitted to use.
 3. Create or import the `ipl` database using the appropriate schema.
-4. Open `sql/rcb_ipl_analysis.sql` in MySQL Workbench.
+4. Open `rcb_ipl_analysis.sql` in MySQL Workbench.
 5. Execute the SQL queries section by section.
 6. Review the outputs and compare them with the project presentation.
 
